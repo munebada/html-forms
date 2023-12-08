@@ -1,0 +1,13 @@
+div input {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+div textarea {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+div button {
+    margin-top: 5px;
+}
